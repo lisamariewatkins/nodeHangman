@@ -1,0 +1,1 @@
+//controls whether a letter or dash appears on the screen
